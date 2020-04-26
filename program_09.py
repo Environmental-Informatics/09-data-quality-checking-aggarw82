@@ -1,6 +1,14 @@
 #!/bin/env python
 # add your header here
-#
+""" Program to perform basic data
+    quality check on meteorological 
+    data and generating graphs
+    highlighting the changes
+    
+    Author: Varun Aggarwal
+    Username: aggarw82
+    Github: https://github.com/Environmental-Informatics/09-data-quality-checking-aggarw82
+"""
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
